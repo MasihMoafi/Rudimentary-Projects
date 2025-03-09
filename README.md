@@ -16,7 +16,4 @@ NLP project for sentiment analysis using logistic regression and handling proble
 ### 4. [Movie Recommendation](./Movie-recommendation)
 Recommender system using content-based filtering and K-means clustering.
 
-### 5. [AMR Parsing and Summarization](./AMR-Parsing-Summarization)
-Project focused on Abstract Meaning Representation (AMR) parsing and text summarization with visualizations.
-
 Each project is contained in its own directory with detailed documentation. 
