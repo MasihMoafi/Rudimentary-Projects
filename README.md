@@ -1,23 +1,22 @@
-<<<<<<< HEAD
 # Rudimentary Projects
 
 A collection of preliminary machine learning and data science projects covering various domains and techniques.
 
 ## Projects
 
-### 1. Predicting Housing Prices
+### 1. [Predicting Housing Prices](./Predicting-Housing-Prices)
 Machine learning model to predict housing prices using regression techniques.
 
-### 2. Evaluating Work Hours
-Analysis of work schedule using linear and polynomial regression.
+### 2. [Evaluating Work Hours](./Evaluating-Work-Hours)
+My first project, using linear and polynomial regression to evaluate my work schedule.
 
-### 3. Sentiment Analysis
+### 3. [Sentiment Analysis](./Sentiment-analysis)
 NLP project for sentiment analysis using logistic regression and handling problematic data.
 
-### 4. Movie Recommendation
+### 4. [Movie Recommendation](./Movie-recommendation)
 Recommender system using content-based filtering and K-means clustering.
 
+### 5. [AMR Parsing and Summarization](./AMR-Parsing-Summarization)
+Project focused on Abstract Meaning Representation (AMR) parsing and text summarization with visualizations.
+
 Each project is contained in its own directory with detailed documentation. 
-=======
-# Rudimentary-Projects
->>>>>>> 0da3056371efe011b67f7e138f3247f7ea62e2c1

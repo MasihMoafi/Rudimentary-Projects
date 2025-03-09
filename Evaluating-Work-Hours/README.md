@@ -1,23 +1,11 @@
-# Evaluating Work Hours
+## Work Hours Analysis - Linear Regression/ Polynomial Regression
 
-My first project, using linear and polynomial regression to evaluate my work schedule.
+This is my first project. The goal was to analyze my personal work hours and perform linear regression on the dataset. The code includes data visualization using box plots and violin plots, as well as a regression analysis using gradient descent. Then applying polynomial regression to see if we get better results which we do!
 
-## Overview
-This project analyzes personal work hours to identify patterns and productivity trends. Using regression techniques, it models the relationship between time spent working and various productivity metrics.
+### Dependencies
 
-## Techniques Used
-- Linear Regression
-- Polynomial Regression
-- Data Visualization
-- Time Series Analysis
-
-## Dataset
-The dataset consists of personal work hours tracked over time, including:
-- Hours worked per day
-- Tasks completed
-- Time of day
-- Day of week
-- Productivity metrics
-
-## Results
-The analysis reveals patterns in productivity relative to work hours and time periods, providing insights into optimal working schedules. 
+    Pandas
+    Seaborn
+    Matplotlib
+    NumPy
+    Scikit-learn
