@@ -29,7 +29,9 @@ try:
     except:
         import sys
         print("Downloading spaCy model...")
-        !{sys.executable} -m spacy download en_core_web_sm
+        print(f"Running: {sys.executable} -m spacy download en_core_web_sm")
+        import subprocess
+        subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
         nlp = spacy.load("en_core_web_sm")
 except ImportError:
     print("spaCy not installed. Install with: pip install spacy")
