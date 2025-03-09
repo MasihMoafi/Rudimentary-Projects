@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rudimentary Projects
 
 A collection of preliminary machine learning and data science projects covering various domains and techniques.
@@ -17,3 +18,6 @@ NLP project for sentiment analysis using logistic regression and handling proble
 Recommender system using content-based filtering and K-means clustering.
 
 Each project is contained in its own directory with detailed documentation. 
+=======
+# Rudimentary-Projects
+>>>>>>> 0da3056371efe011b67f7e138f3247f7ea62e2c1
