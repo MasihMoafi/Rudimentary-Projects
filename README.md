@@ -19,4 +19,4 @@ Recommender system using content-based filtering and K-means clustering.
 ### 5. [Transfer Learning](./Transfer-Learning)
 Using pre-trained models for transfer learning in computer vision tasks.
 
-Each project is contained in its own directory with detailed documentation. 
+Each project is contained in its own directory with detailed documentation.
